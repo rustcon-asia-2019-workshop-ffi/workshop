@@ -1,7 +1,7 @@
 
 # Install
-
-install libpng, libwebp
+* rust nightly
+* install libpng, libwebp
 
 ## Mac
 
@@ -16,6 +16,3 @@ brew install webp libpng
 ```
 sudo apt-get install libpng-dev libwebp-dev
 ```
-
-Docker
-
