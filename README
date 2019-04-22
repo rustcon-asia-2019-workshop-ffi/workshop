@@ -1,0 +1,19 @@
+
+# Install
+
+install libpng, libwebp
+
+Mac
+
+'''
+brew install webp libpng
+'''
+
+Linux
+
+```
+ 
+```
+
+Docker
+
