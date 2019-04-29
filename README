@@ -5,15 +5,13 @@ install libpng, libwebp
 
 Mac
 
-'''
+```
 brew install webp libpng
-'''
-
-Linux
-
-```
- 
 ```
 
-Docker
+Docker 
+
+```
+sudo docker run -it hawkingrei/workshop bash
+```
 
